@@ -1,2 +1,2 @@
 # Linear-Regression
- Linear Rregression for a small dataset
+ Linear Regression for a small dataset
